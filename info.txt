@@ -1,0 +1,5 @@
+If you are looking for complex admin boundary of a city, then you are asking for GIS data, I have not come across of access this data from Google Maps, but solution is to get access to GIS data from other sites.
+
+Visit this site - https://gadm.org/download_country_v3.html
+
+Select your country "Malaysia" and the output you want, note the output is in GIS format, to view you would need GIS software.
